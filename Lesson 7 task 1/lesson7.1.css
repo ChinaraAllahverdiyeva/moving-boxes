@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    list-style: none;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    position: relative;
+    
+
+}
+
+
+
+
+.item {
+    background-color: blueviolet;
+    padding-right: 10px;
+    width: 150px;
+
+}
+.item:hover{
+    position: relative;
+    bottom: 3px;
+}
+
+
+
+
